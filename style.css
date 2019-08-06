@@ -1,0 +1,28 @@
+.text-center{
+  text-align: center; 
+}
+
+.blue{
+  color: aquamarine;
+}
+
+.blue h1{
+  color: blue;
+}
+
+.text-right {
+  text-align: right;
+}
+
+*{
+  outline: 1px solid red;
+}
+
+.text-left{
+  text-align: left;
+}
+
+#summary{
+  padding: 15px;
+  border: 32px solid blue;
+}
